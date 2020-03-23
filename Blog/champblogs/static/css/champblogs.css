@@ -18,8 +18,8 @@ body {
 }
 
 .content {
-    
     margin-left: 40px;
+    font-size: 14pt;
 }
 
 h1, h2, h3, h4 {
@@ -27,7 +27,7 @@ h1, h2, h3, h4 {
 }
 
 .date {
-    font-family: 'lobster';
+    font-family: 'satisfy';
     color: #857fba;
 }
 
@@ -53,4 +53,3 @@ h1, h2, h3, h4 {
 .post h2 a, .post h2 a:visited {
     color: #191372;
 }
-
